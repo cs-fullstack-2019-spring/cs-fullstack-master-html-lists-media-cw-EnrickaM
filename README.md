@@ -1,3 +1,7 @@
+### 0 POINTS
+### KEY: You don't need CSS to create HTML lists, but would have let that slide but output doesn't reproduce expected output.
+### Please review HTML lists. https://learn.shayhowe.com/html-css/creating-lists/
+
 # HTML Lists/Media Graded Class Work
 
 ### Exercise 1:
